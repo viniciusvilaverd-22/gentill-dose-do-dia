@@ -1,5 +1,7 @@
 # Dose do Dia
 
+![Apresentação de Dose do Dia](assets/banner.png)
+
 **Organização de medicamentos prescritos e horários.**
 
 Dose do Dia é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Dose do Dia é uma solução Gentill em desenvolvimento, com interface em **port
 - Cadastre horários indicados na prescrição
 - Consulte a rotina de medicamentos
 - Registre manualmente as tomadas
+
+## Identidade visual
+
+![Ícone de Dose do Dia](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
